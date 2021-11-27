@@ -100,10 +100,10 @@ updated: 2021-01-29 15:40:16
 
 {% buttons are-large %}
 
-[Windows x64@fab-windows, button, is-primary](https://github.com/tootal/vnote/suites/4480312213/artifacts/119308698)
-[Windows x86@fab-windows, button, is-info](https://github.com/tootal/vnote/suites/4480312213/artifacts/119308699)
-[macOS@fab-apple, button, is-dark](https://github.com/tootal/vnote/suites/4480312212/artifacts/119308022)
-[Linux@fab-linux, button, is-warning](https://github.com/tootal/vnote/suites/4480312214/artifacts/119307742)
+[Windows x64@fab-windows, button, is-primary](https://github.com/tootal/vnote/releases/download/task_v1/vnote-win-x64_v3.10.1.zip)
+[Windows x86@fab-windows, button, is-info](https://github.com/tootal/vnote/releases/download/task_v1/vnote-win-x86_v3.10.1.zip)
+[macOS@fab-apple, button, is-dark](https://github.com/tootal/vnote/releases/download/task_v1/vnote-mac-x64_v3.10.1.dmg)
+[Linux@fab-linux, button, is-warning](https://github.com/tootal/vnote/releases/download/task_v1/vnote-linux-x64_v3.10.1.zip)
 
 {% endbuttons %}
 
